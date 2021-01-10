@@ -1,4 +1,4 @@
-<strong>🧐️ Fato interessante</strong>: Este código foi usado para explicar a resolução da tarefa no dia 20/10/2020.
+<strong>🧐️ Fato interessante</strong>: Este código (escrito por mim) foi usado para explicar a resolução da tarefa no dia 20/10/2020.
 
 <strong><a href="https://github.com/anabeatrizzz/atv-qts/blob/main/Romanos/NumerosRomanos.cs">Romanos/NumerosRomanos.cs</a></strong>: Classe que será testada.
 
