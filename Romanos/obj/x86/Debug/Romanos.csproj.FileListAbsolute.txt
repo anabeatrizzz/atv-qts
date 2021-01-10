@@ -1,0 +1,5 @@
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\bin\Debug\Romanos.exe
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\bin\Debug\Romanos.pdb
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\obj\x86\Debug\Romanos.exe
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\obj\x86\Debug\Romanos.pdb
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\obj\x86\Debug\Romanos.csprojResolveAssemblyReference.cache

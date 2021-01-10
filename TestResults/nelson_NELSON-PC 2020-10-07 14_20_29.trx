@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="90e56195-4d4a-4737-ab8f-e1f9b8235794" name="nelson@NELSON-PC 2020-10-07 14:20:29" runUser="nelson-PC\nelson" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="da2c040d-0a7d-472c-a221-53522133e1ec">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="nelson_NELSON-PC 2020-10-07 14_20_29">
+      <DeploymentItem filename="C:\Users\nelson\Documents\Ana Beatriz\Romanos\Romanos\bin\Debug\Romanos.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-10-07T14:20:29.0400390-03:00" queuing="2020-10-07T14:20:29.1835937-03:00" start="2020-10-07T14:20:29.2783203-03:00" finish="2020-10-07T14:20:29.8593750-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TesteMilhar" storage="c:\users\nelson\documents\ana beatriz\romanos\romanosteste\bin\debug\romanosteste.dll" id="ca1b4478-ba63-95eb-6e8c-4de3f5e6051c">
+      <Execution id="bf9eea38-9e27-4be9-b7d7-394aacb138ae" />
+      <TestMethod codeBase="C:/Users/nelson/Documents/Ana Beatriz/Romanos/RomanosTeste/bin/Debug/RomanosTeste.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RomanosTeste.TesteUnitario1, RomanosTeste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TesteMilhar" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ca1b4478-ba63-95eb-6e8c-4de3f5e6051c" executionId="bf9eea38-9e27-4be9-b7d7-394aacb138ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bf9eea38-9e27-4be9-b7d7-394aacb138ae" testId="ca1b4478-ba63-95eb-6e8c-4de3f5e6051c" testName="TesteMilhar" computerName="NELSON-PC" duration="00:00:00.0226956" startTime="2020-10-07T14:20:29.2851562-03:00" endTime="2020-10-07T14:20:29.8310546-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf9eea38-9e27-4be9-b7d7-394aacb138ae">
+    </UnitTestResult>
+  </Results>
+</TestRun>

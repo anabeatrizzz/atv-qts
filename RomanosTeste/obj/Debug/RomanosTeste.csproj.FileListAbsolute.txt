@@ -1,0 +1,7 @@
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\bin\Debug\RomanosTeste.dll
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\bin\Debug\RomanosTeste.pdb
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\obj\Debug\RomanosTeste.csprojResolveAssemblyReference.cache
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\obj\Debug\RomanosTeste.dll
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\obj\Debug\RomanosTeste.pdb
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\bin\Debug\Romanos.exe
+C:\Users\nelson\Documents\Ana Beatriz\Romanos\RomanosTeste\bin\Debug\Romanos.pdb
